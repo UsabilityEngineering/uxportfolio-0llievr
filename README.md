@@ -8,4 +8,4 @@ My name is Oliver Lynch, I am a 4th year computerscience major. Im studdying UX 
 
 
 ## UX Journal
-
+[test journal](JournalOne)
