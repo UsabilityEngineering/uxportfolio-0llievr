@@ -2,7 +2,7 @@
 
 ![man smiling](assets/Oliver.jpeg "man smiling")
 
-My name is Oliver Lynch, I am a 4th year computerscience major. Im studdying UX because I really enjoy making things easy to use 
+Im Oliver Lynch, I'm a 4th year computer science major. Im studdying UX because I want to learn how to make things easy to understand and enjoyable to use
 
 ## UX Team Project
 
