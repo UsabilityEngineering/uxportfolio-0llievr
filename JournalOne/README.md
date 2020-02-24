@@ -1,8 +1,8 @@
 # Easy cork
-####Journal one
+##### Journal one
 
-![easy Cork](JournalOne/cork1.jpeg "cork 1")
-![easy Cork](JournalOne/cork2.jpeg "cork 2")
+![easy Cork](https://github.com/UsabilityEngineering/uxportfolio-0llievr/blob/master/JournalOne/cork1.jpeg "cork 1")
+![easy Cork](https://github.com/UsabilityEngineering/uxportfolio-0llievr/blob/master/JournalOne/cork2.jpeg "cork 2")
 
 
 This is a multi-fit bottle cap that works on practically any bottle. It allows the user
