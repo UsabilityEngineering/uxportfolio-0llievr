@@ -1,6 +1,6 @@
 # Easy cork
 #### Oliver Lynch: Journal one
-### 2/23/20
+##### 2/23/20
 
 
 ![easy Cork](https://github.com/UsabilityEngineering/uxportfolio-0llievr/blob/master/JournalOne/cork1.jpeg "cork 1")
