@@ -11,3 +11,5 @@ Im Oliver Lynch, I'm a 4th year computer science major. Im studdying UX because 
 [Journal One](JournalOne)
 
 [Journal Two](JournalTwo)
+
+[Journal Three](JournalThree)
